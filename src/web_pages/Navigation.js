@@ -6,7 +6,7 @@ function Navigation(User) {
       <div className="container">
         {/* Brand/logo */}
         <a className="navbar-brand" href="/">
-          Dharmang Designs
+          Benard Kosgei
         </a>
         {/* Toggle button for mobile navigation */}
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav"

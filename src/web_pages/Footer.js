@@ -5,7 +5,7 @@ function Footer() {
         // Stylish footer with a dark background, white text, and centered content
         <div className="bg-dark text-white text-center p-3">
             {/* Copyright and application information */}
-            <p>&copy; 2023 | COMP2112 | Custom React Web Application</p>
+            <p>&copy; 2023 | All Rights Reserved | Full Stack Developer</p>
         </div>
     );
 }

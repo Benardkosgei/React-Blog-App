@@ -10,7 +10,7 @@ const Home = ({ data }) => {
         <h1 className="h2 mb-3">Welcome to My Portfolio</h1>
         {/* Introduction content */}
         <p>
-          Hi, I'm Dharmang, a passionate graphic designer and website developer.
+          Hi, I'm Benard, a passionate full stck developer and graphic designer.
           This is my portfolio showcasing some of my recent works.
         </p>
       </section>
