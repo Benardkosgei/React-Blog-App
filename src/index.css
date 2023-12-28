@@ -1,0 +1,24 @@
+ 
+.navbar-brand{
+  font-family: 'Harrington';
+  font-size: 30px !important;
+}
+.services{
+  transition: 0.7s;
+}
+.services:hover{
+  margin-top:-15px;
+  cursor: pointer;
+  background: #aca1a1;
+}
+.nav-item{
+  transition: 0.7s;
+  border: 1px solid #e1e1e1;
+}
+.nav-item:hover{
+  border: 1px solid rgb(43, 0, 235);
+  background:rgb(43, 0, 235);
+}
+.navbar .nav-link {
+  text-transform: capitalize !important;
+}
