@@ -31,7 +31,7 @@ const Contact = ({ data }) => {
           <h2>Phone Number</h2>
           <p>For immediate assistance, please call us at: <strong>(123) 456-7890</strong></p>
           <h2>Address</h2>
-          <p>Prime Plaza: <strong> Kenya/strong></p>
+          <p>Prime Plaza: <strong> Kenya</strong></p>
         </div>
       </div>
     </div>
