@@ -18,12 +18,7 @@ const About = ({ data }) => {
             Let's embark on a journey where design meets innovation, and creativity knows no bounds.
             Ready to create something extraordinary? Let's connect and start crafting your digital masterpiece!
           </p>
-          {/* Team subheading */}
-          <h3>Our Team</h3>
-          {/* Team description */}
-          <p>
-            Meet our dedicated team of professionals who work tirelessly to provide the best services to our clients.
-          </p>
+         
         </div>
         {/* Right column with an image */}
         <div className='col-md-6 col-lg-6'>
