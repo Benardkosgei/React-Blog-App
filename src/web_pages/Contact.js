@@ -4,7 +4,7 @@ const Contact = ({ data }) => {
   return (
     <div className="container my-4 border border-info my-2 pb-4">
         <div className='bg-info p-2 mb-3'>
-        <h1 className='h3'>Feel free to reach out to us!</h1>
+        <h1 className='h3'>Feel free to reach out to me!</h1>
         </div>
       <div className="row ">
         <div className="col-md-6">
